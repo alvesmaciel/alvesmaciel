@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web;Front-end+%26+Back-end;Criando+interfaces+modernas;Sempre+aprendendo+novas+tecnologias" />
 
 ---
+<div align="center">
 
 ## 🚀 Sobre mim
 
@@ -50,7 +51,7 @@
 ✔️ Organização de projetos
 ✔️ Boas práticas de desenvolvimento
 ✔️ Resolução de problemas
-
+</div>
 ---
 
 ## 📊 Estatísticas GitHub
@@ -76,12 +77,11 @@
 ---
 
 ## 🌐 Contato
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail)](mailto:seuemail@email.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge\&logo=google-chrome)](https://seusite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/seuusuario)
-</div>
+
 
 ---
 
