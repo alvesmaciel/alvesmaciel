@@ -1,12 +1,14 @@
-# 👨‍💻 Maciel — Desenvolvedor Web
+# 👨‍💻 Maciel
+
+### Desenvolvedor Web
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=26&center=true&vCenter=true&width=900&lines=Desenvolvedor+Web;Interfaces+Modernas+e+Responsivas;Front-end+%26+Back-end;Em+busca+de+oportunidades" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+Web;Interfaces+Modernas+e+Responsivas;Front-end+%26+Back-end;Transformando+ideias+em+aplicações" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue&style=flat-square&label=Visualizações" />
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=3B82F6&style=flat-square&label=Visualizações" />
 
 </div>
 
@@ -14,34 +16,41 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor com formação técnica em **Informática para Internet pelo SENAI**, com foco na criação de **interfaces modernas, responsivas e funcionais**.
+Sou desenvolvedor com formação técnica em **Informática para Internet pelo SENAI**, focado na criação de aplicações web modernas, responsivas e funcionais.
 
-Tenho experiência prática no desenvolvimento de aplicações web completas, atuando no **front-end, back-end básico e integração com banco de dados**.
+Tenho experiência prática com **front-end, back-end básico e banco de dados**, desenvolvendo projetos completos e organizados.
 
-💡 Busco transformar ideias em soluções reais, aplicando boas práticas, organização e aprendizado contínuo.
+💡 Busco oportunidades para atuar como Desenvolvedor Web e evoluir constantemente minhas habilidades.
 
 ---
 
-## 🧠 Diferenciais
+## 🧩 O que eu faço
 
-* ✔️ Desenvolvimento de projetos completos (front + back + banco)
-* ✔️ Código organizado e foco em boas práticas
-* ✔️ Facilidade em aprender novas tecnologias
-* ✔️ Resolução eficiente de problemas
-* ✔️ Comprometimento com evolução constante
+```css id="ljq6i2"
+/* Interfaces */
+Design moderno
+Responsividade
+Experiência do usuário
+
+/* Desenvolvimento */
+Front-end estruturado
+Back-end funcional
+Integração com banco de dados
+```
 
 ---
 
 ## 🛠️ Tecnologias
 
-**Front-end:**
-HTML5 • CSS3 • JavaScript
+<div align="center">
 
-**Back-end:**
-PHP
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-**Banco de dados:**
-MySQL
+</div>
 
 ---
 
@@ -75,16 +84,28 @@ MySQL
 
 ## 🎯 Objetivo
 
-Atuar como **Desenvolvedor Web**, contribuindo com projetos reais, evoluindo tecnicamente e agregando valor ao time através de organização, dedicação e aprendizado contínuo.
+```bash id="0qccgv"
+> Atuar como Desenvolvedor Web
+> Trabalhar em projetos reais
+> Evoluir continuamente como profissional
+```
 
 ---
 
 ## 📫 Contato
 
-* 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
-* 🌐 Portfólio: https://seusite.com
-* 💼 LinkedIn: https://linkedin.com/in/seuusuario
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge\&logo=gmail)](mailto:seuemail@email.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111?style=for-the-badge\&logo=google-chrome)](https://seusite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/seuusuario)
+
+</div>
 
 ---
 
-💡 *Focado em evolução constante e construção de soluções reais.*
+<div align="center">
+
+### 💡 Transformando ideias em soluções reais
+
+</div>
