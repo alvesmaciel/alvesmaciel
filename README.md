@@ -76,10 +76,12 @@
 ---
 
 ## 🌐 Contato
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge\&logo=gmail)](mailto:seuemail@email.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge\&logo=google-chrome)](https://seusite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/seuusuario)
+</div>
 
 ---
 
