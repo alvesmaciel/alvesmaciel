@@ -1,59 +1,42 @@
-
-
-<!-- HERO -->
-
 <div align="center">
-
 # 👨‍💻 Maciel
 
 ### Desenvolvedor Web
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=30&center=true&vCenter=true&width=900&lines=Interfaces+Modernas+e+Responsivas;Front-end+%26+Back-end;Transformando+ideias+em+aplicações;Disponível+para+oportunidades" />
 
-<br><br>
-
-💻 Desenvolvimento Web completo
-🎯 Foco em soluções reais e funcionais
-🚀 Evoluindo constantemente
+<img src="https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+Web;Interfaces+Modernas+e+Responsivas;Front-end+%26+Back-end;Transformando+ideias+em+aplicações" />
 
 <br>
-
-[![Portfólio](https://img.shields.io/badge/Ver%20Portfólio-2563EB?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://seusite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/seuusuario)
 
 </div>
 
 ---
 
-<!-- SOBRE -->
+## 🚀 Sobre mim
 
-## 🧩 Sobre
+Sou desenvolvedor com formação técnica em **Informática para Internet pelo SENAI**, focado na criação de aplicações web modernas, responsivas e funcionais.
 
-Sou desenvolvedor com formação técnica em **Informática para Internet pelo SENAI**, com experiência na criação de aplicações web modernas, responsivas e funcionais.
+Tenho experiência prática com **front-end, back-end básico e banco de dados**, desenvolvendo projetos completos e organizados.
 
-Atuo desenvolvendo projetos completos, desde a interface até a lógica e integração com banco de dados.
-
-💡 Meu foco é transformar ideias em soluções reais, aplicando boas práticas e organização no desenvolvimento.
+💡 Busco oportunidades para atuar como Desenvolvedor Web e evoluir constantemente minhas habilidades.
 
 ---
 
-<!-- FEATURES -->
+## 🧩 O que eu faço
 
-## ⚡ O que eu entrego
+```css id="ljq6i2"
+/* Interfaces */
+Design moderno
+Responsividade
+Experiência do usuário
 
-```css id="c1"
-Interfaces modernas e responsivas
-Experiência do usuário (UX/UI)
-Layouts organizados e profissionais
-
+/* Desenvolvimento */
+Front-end estruturado
+Back-end funcional
 Integração com banco de dados
-Sistemas funcionais (PHP + MySQL)
-Código limpo e estruturado
 ```
 
 ---
-
-<!-- STACK -->
 
 ## 🛠️ Tecnologias
 
@@ -69,9 +52,7 @@ Código limpo e estruturado
 
 ---
 
-<!-- PROJETOS -->
-
-## 📌 Projetos
+## 📌 Projetos em Destaque
 
 <div align="center">
 
@@ -87,9 +68,7 @@ Código limpo e estruturado
 
 ---
 
-<!-- PROVA -->
-
-## 📊 Atividade
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -101,18 +80,23 @@ Código limpo e estruturado
 
 ---
 
-<!-- CTA -->
+## 🎯 Objetivo
 
-## 🚀 Vamos trabalhar juntos?
+```bash id="0qccgv"
+> Atuar como Desenvolvedor Web
+> Trabalhar em projetos reais
+> Evoluir continuamente como profissional
+```
+
+---
+
+## 📫 Contato
 
 <div align="center">
 
-Se você procura um desenvolvedor comprometido, organizado e em constante evolução, estou pronto para contribuir com seu projeto.
-
-<br><br>
-
-[![Email](https://img.shields.io/badge/Entrar%20em%20Contato-111?style=for-the-badge\&logo=gmail)](mailto:seuemail@email.com)
-[![LinkedIn](https://img.shields.io/badge/Conectar-111?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/seuusuario)
+[![Email](https://img.shields.io/badge/Email-111?style=for-the-badge\&logo=gmail)](mailto:seuemail@email.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-111?style=for-the-badge\&logo=google-chrome)](https://seusite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/seuusuario)
 
 </div>
 
@@ -120,6 +104,7 @@ Se você procura um desenvolvedor comprometido, organizado e em constante evolu�
 
 <div align="center">
 
-### 💡 Construindo soluções reais através do código
+### 💡 Transformando ideias em soluções reais
 
 </div>
+
