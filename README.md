@@ -1,61 +1,83 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=28&center=true&vCenter=true&width=1000&lines=>>+Booting+System...;>>+Access+Granted;>>+Maciel+Dev+Online;>>+Initializing+Projects..." />
+# 🖥️ MacielOS v1.0.0
+
+```bash
+Booting system...
+Loading kernel...
+Initializing modules...
+Access granted ✔
+```
 
 ---
 
+## 👤 user@maciel:~$
+
+```bash
+whoami
+```
+
+```
+Maciel
+Desenvolvedor Web
+SENAI - Informática para Internet
+Status: Online 🟢
+```
+
+---
+
+## 📂 system/info
+
+```bash
+cat profile.txt
+```
+
+```
+> Desenvolvedor focado em interfaces modernas e responsivas
+> Experiência com front-end + back-end básico
+> Integração com banco de dados (MySQL)
+> Forte em lógica, organização e resolução de problemas
+```
+
+---
+
+## ⚙️ system/stack
+
+```bash
+ls tech/
+```
+
+```
+HTML5     CSS3     JavaScript     PHP     MySQL
+```
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=00ff00&style=flat-square&label=ACCESS+LOGS" />
+![HTML](https://img.shields.io/badge/html-000?style=for-the-badge\&logo=html5\&logoColor=00FF00)
+![CSS](https://img.shields.io/badge/css-000?style=for-the-badge\&logo=css3\&logoColor=00FF00)
+![JS](https://img.shields.io/badge/javascript-000?style=for-the-badge\&logo=javascript\&logoColor=00FF00)
+![PHP](https://img.shields.io/badge/php-000?style=for-the-badge\&logo=php\&logoColor=00FF00)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge\&logo=mysql\&logoColor=00FF00)
 
 </div>
 
 ---
 
-## 🧠 > whoami
+## 🛠️ system/tools
 
 ```bash
-> Nome: Maciel
-> Função: Desenvolvedor Web
-> Formação: SENAI - Informática para Internet
-> Status: Online 🟢
-> Foco: Interfaces modernas + sistemas funcionais
+ls tools/
+```
+
+```
+VS Code     Git     GitHub     XAMPP
 ```
 
 ---
 
-## ⚙️ > tech_stack.exe
+## 📊 system/monitor
 
 ```bash
-> HTML5
-> CSS3
-> JavaScript
-> PHP
-> MySQL
+top
 ```
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge\&logo=html5\&logoColor=00FF00)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge\&logo=css3\&logoColor=00FF00)
-![JS](https://img.shields.io/badge/JS-000?style=for-the-badge\&logo=javascript\&logoColor=00FF00)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge\&logo=php\&logoColor=00FF00)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql\&logoColor=00FF00)
-
-</div>
-
----
-
-## 🛠️ > tools.sys
-
-```bash
-> VS Code
-> Git
-> GitHub
-> XAMPP
-```
-
----
-
-## 📊 > system_stats.log
 
 <div align="center">
 
@@ -67,7 +89,11 @@
 
 ---
 
-## 🔥 > activity_feed
+## 🔥 system/activity
+
+```bash
+watch -n 1 activity.log
+```
 
 <div align="center">
 
@@ -79,7 +105,11 @@
 
 ---
 
-## 🐍 > executing_snake.exe
+## 🐍 system/process
+
+```bash
+./snake --run
+```
 
 <div align="center">
 
@@ -89,7 +119,11 @@
 
 ---
 
-## 📡 > connect.sh
+## 📡 system/network
+
+```bash
+ping connections
+```
 
 <div align="center">
 
@@ -101,20 +135,45 @@
 
 ---
 
-## 💀 > mindset.txt
+## 🧠 system/mindset
 
 ```bash
-> Clean Code
-> Continuous Learning
-> Problem Solving
-> Build > Talk
+cat mindset.cfg
+```
+
+```
+[CORE]
+clean_code=true
+learning=continuous
+focus=solutions
+mode=build
+
+[STATUS]
+system=stable
+growth=active
+```
+
+---
+
+## 🟢 system/status
+
+```bash
+systemctl status maciel
+```
+
+```
+● maciel.service - Web Developer
+     Loaded: true
+     Active: active (running)
+     Since: 2025
 ```
 
 ---
 
 <div align="center">
 
-⚡ SYSTEM READY ⚡
-🟢 STATUS: OPERATIONAL
+💻 MacielOS rodando com sucesso
+⚡ Performance: Alta
+🚀 Upgrade contínuo em andamento...
 
 </div>
