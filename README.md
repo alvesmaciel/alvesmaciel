@@ -8,8 +8,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=3B82F6&style=flat-square&label=Visualizações" />
-
 </div>
 
 ---
