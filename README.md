@@ -1,179 +1,144 @@
-# 🖥️ MacielOS v1.0.0
-
-```bash
-Booting system...
-Loading kernel...
-Initializing modules...
-Access granted ✔
-```
-
----
-
-## 👤 user@maciel:~$
-
-```bash
-whoami
-```
-
-```
-Maciel
-Desenvolvedor Web
-SENAI - Informática para Internet
-Status: Online 🟢
-```
-
----
-
-## 📂 system/info
-
-```bash
-cat profile.txt
-```
-
-```
-> Desenvolvedor focado em interfaces modernas e responsivas
-> Experiência com front-end + back-end básico
-> Integração com banco de dados (MySQL)
-> Forte em lógica, organização e resolução de problemas
-```
-
----
-
-## ⚙️ system/stack
-
-```bash
-ls tech/
-```
-
-```
-HTML5     CSS3     JavaScript     PHP     MySQL
-```
+# 🖥️ Maciel Terminal
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/html-000?style=for-the-badge\&logo=html5\&logoColor=00FF00)
-![CSS](https://img.shields.io/badge/css-000?style=for-the-badge\&logo=css3\&logoColor=00FF00)
-![JS](https://img.shields.io/badge/javascript-000?style=for-the-badge\&logo=javascript\&logoColor=00FF00)
-![PHP](https://img.shields.io/badge/php-000?style=for-the-badge\&logo=php\&logoColor=00FF00)
-![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge\&logo=mysql\&logoColor=00FF00)
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=26&center=true&vCenter=true&width=900&lines=Maciel+Dev+Terminal;Web+Developer;Interfaces+Modernas+%26+Responsivas;Construindo+Soluções+Reais" />
 
 </div>
 
 ---
 
-## 🛠️ system/tools
+## 💻 Terminal
 
-```bash
-ls tools/
+```bash id="term1"
+maciel@dev:~$ help
 ```
 
-```
-VS Code     Git     GitHub     XAMPP
+```id="term2"
+Comandos disponíveis:
+
+about      → Sobre mim
+skills     → Tecnologias
+projects   → Projetos
+contact    → Contato
 ```
 
 ---
 
-## 📊 system/monitor
+```bash id="term3"
+maciel@dev:~$ about
+```
 
-```bash
-top
+```id="term4"
+Desenvolvedor Web com formação pelo SENAI
+Foco em interfaces modernas, responsivas e funcionais
+
+Experiência com:
+- Front-end (HTML, CSS, JavaScript)
+- Back-end básico (PHP)
+- Banco de dados (MySQL)
+
+Perfil:
+- Aprendizado rápido
+- Organização
+- Resolução de problemas
+```
+
+---
+
+```bash id="term5"
+maciel@dev:~$ skills
+```
+
+```id="term6"
+HTML5      ██████████
+CSS3       ██████████
+JavaScript █████████░
+PHP        ████████░░
+MySQL      ███████░░░
 ```
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=chartreuse-dark&hide_border=true" />
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003B57?style=flat-square\&logo=mysql\&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 system/activity
+```bash id="term7"
+maciel@dev:~$ projects
+```
 
-```bash
-watch -n 1 activity.log
+```id="term8"
+/projects
+ ├── auto-finance
+ ├── portfolio
+ └── coming-soon
 ```
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=chartreuse-dark&hide_border=true" />
+<a href="https://github.com/SEUUSUARIO/auto-finance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSUARIO&repo=auto-finance&theme=default&hide_border=true" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=chartreuse-dark&hide_border=true" />
+<a href="https://github.com/SEUUSUARIO/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSUARIO&repo=portfolio&theme=default&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-## 🐍 system/process
-
-```bash
-./snake --run
+```bash id="term9"
+maciel@dev:~$ stats
 ```
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=default&hide_border=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
 ---
 
-## 📡 system/network
-
-```bash
-ping connections
+```bash id="term10"
+maciel@dev:~$ contact
 ```
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/email-000?style=for-the-badge\&logo=gmail\&logoColor=00FF00)](mailto:seuemail@email.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge\&logo=google-chrome\&logoColor=00FF00)](https://seusite.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge\&logo=linkedin\&logoColor=00FF00)](https://linkedin.com/in/seuusuario)
+[![Email](https://img.shields.io/badge/Email-444?style=flat-square\&logo=gmail)](mailto:seuemail@email.com)
+[![Portfólio](https://img.shields.io/badge/Portfolio-444?style=flat-square\&logo=google-chrome)](https://seusite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-444?style=flat-square\&logo=linkedin)](https://linkedin.com/in/seuusuario)
 
 </div>
 
 ---
 
-## 🧠 system/mindset
+## 📌 Status
 
-```bash
-cat mindset.cfg
+```bash id="term11"
+maciel@dev:~$ system status
 ```
 
-```
-[CORE]
-clean_code=true
-learning=continuous
-focus=solutions
-mode=build
-
-[STATUS]
-system=stable
-growth=active
-```
-
----
-
-## 🟢 system/status
-
-```bash
-systemctl status maciel
-```
-
-```
-● maciel.service - Web Developer
-     Loaded: true
-     Active: active (running)
-     Since: 2025
+```id="term12"
+Status: ativo
+Foco: desenvolvimento web
+Objetivo: crescer profissionalmente e atuar em projetos reais
 ```
 
 ---
 
 <div align="center">
 
-💻 MacielOS rodando com sucesso
-⚡ Performance: Alta
-🚀 Upgrade contínuo em andamento...
+💡 Simples. Limpo. Profissional.
 
 </div>
