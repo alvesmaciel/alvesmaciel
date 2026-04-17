@@ -31,7 +31,7 @@ Experiência em front-end, back-end e banco de dados. Busco oportunidades como *
 
 | | |
 |---|---|
-| [![Photographer](https://image.thum.io/get/width/350/https://alvesmaciel.github.io/WebSite-Photographer/)](https://alvesmaciel.github.io/WebSite-Photographer/) | [![Mac Apps](https://image.thum.io/get/width/350/https://alvesmaciel.github.io/Mac/HomePage/)](https://alvesmaciel.github.io/Mac/HomePage/) |
+| [![Photographer](https://image.thum.io/get/width/150/https://alvesmaciel.github.io/WebSite-Photographer/)](https://alvesmaciel.github.io/WebSite-Photographer/) | [![Mac Apps](https://image.thum.io/get/width/150/https://alvesmaciel.github.io/Mac/HomePage/)](https://alvesmaciel.github.io/Mac/HomePage/) |
 | **Photographer** — Website de fotografia | **Mac Apps** — Projeto Pessoal |
 
 ---
@@ -56,7 +56,7 @@ Experiência em front-end, back-end e banco de dados. Busco oportunidades como *
 ## Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arthurteixeiramaciel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvesmaciel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvesmaciell)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://alvesmaciel.github.io)
 
 <img src="https://komarev.com/ghpvc/?username=alvesmaciel&color=3B82F6&style=flat-square"/>
