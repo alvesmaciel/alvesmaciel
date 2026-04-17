@@ -32,7 +32,7 @@ Experiência em front-end, back-end básico e banco de dados. Busco oportunidade
 | | |
 |---|---|
 | [![Photographer](https://image.thum.io/get/width/350/https://alvesmaciel.github.io/WebSite-Photographer/)](https://alvesmaciel.github.io/WebSite-Photographer/) | [![Mac Apps](https://image.thum.io/get/width/350/https://alvesmaciel.github.io/Mac/HomePage/)](https://alvesmaciel.github.io/Mac/HomePage/) |
-| **Photographer** — Website de fotografia | **Mac Apps** — Homepage pessoal |
+| **Photographer** — Website de fotografia | **Mac Apps** — Projeto Pessoal |
 
 ---
 
@@ -55,7 +55,7 @@ Experiência em front-end, back-end básico e banco de dados. Busco oportunidade
 
 ## Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arthurteixeiramaciel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvesmaciel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://alvesmaciel.github.io)
 
