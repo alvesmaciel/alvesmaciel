@@ -57,21 +57,25 @@ Integração com banco de dados
 
   <div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
 
-    <a href="https://github.com/alvesmaciel/WebSite-Photographer" target="_blank" style="text-decoration: none;">
-      <img 
-        src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/WebSite-Photographer/" 
-        alt="Projeto Photographer"
-        style="width: 260px; border-radius: 16px; transition: transform 0.3s ease;"
-      />
-    </a>
+<a href="https://github.com/alvesmaciel/WebSite-Photographer" target="_blank" style="text-decoration: none;">
+  <img 
+    src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/WebSite-Photographer/" 
+    alt="Projeto Photographer"
+    style="width: 260px; border-radius: 16px; transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.05)'"
+    onmouseout="this.style.transform='scale(1)'"
+  />
+</a>
 
-    <a href="https://alvesmaciel.github.io/Mac/HomePage/" target="_blank" style="text-decoration: none;">
-      <img 
-        src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/Mac/HomePage/" 
-        alt="Mac Apps"
-        style="width: 260px; border-radius: 16px; transition: transform 0.3s ease;"
-      />
-    </a>
+<a href="https://alvesmaciel.github.io/Mac/HomePage/" target="_blank" style="text-decoration: none;">
+  <img 
+    src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/Mac/HomePage/" 
+    alt="Mac Apps"
+    style="width: 260px; border-radius: 16px; transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.05)'"
+    onmouseout="this.style.transform='scale(1)'"
+  />
+</a>
 
   </div>
 </div>
