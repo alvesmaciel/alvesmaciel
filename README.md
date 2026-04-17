@@ -53,21 +53,27 @@ Integração com banco de dados
 ---
 
 ## 📌 Projetos em Destaque
-
 <div align="center">
 
-<a href="https://github.com/alvesmaciel/WebSite-Photographer" target="_blank">
-  <img 
-    src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/WebSite-Photographer/" 
-    alt="Projeto Photographer"
-    style="width: 60%; max-width: 80px; border-radius: 24px;"
-  />
-</a>
+  <div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
 
-<a href="https://github.com/SEUUSUARIO/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEUUSUARIO&repo=portfolio&theme=default&hide_border=true" />
-</a>
+    <a href="https://github.com/alvesmaciel/WebSite-Photographer" target="_blank" style="text-decoration: none;">
+      <img 
+        src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/WebSite-Photographer/" 
+        alt="Projeto Photographer"
+        style="width: 260px; border-radius: 16px; transition: transform 0.3s ease;"
+      />
+    </a>
 
+    <a href="https://alvesmaciel.github.io/Mac/HomePage/" target="_blank" style="text-decoration: none;">
+      <img 
+        src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/Mac/HomePage/" 
+        alt="Mac Apps"
+        style="width: 260px; border-radius: 16px; transition: transform 0.3s ease;"
+      />
+    </a>
+
+  </div>
 </div>
 
 ---
