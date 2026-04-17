@@ -56,7 +56,7 @@ Integração com banco de dados
 
 <div align="center">
 
-<a href="https://alvesmaciel.github.io/WebSite-Photographer/" target="_blank">
+<a href="https://alvesmaciel.github.io/WebSite-Photographer/](https://github.com/alvesmaciel)" target="_blank">
   <img 
     src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/WebSite-Photographer/" 
     alt="Projeto Photographer"
