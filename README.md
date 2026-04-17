@@ -60,7 +60,7 @@ Integração com banco de dados
   <img 
     src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/WebSite-Photographer/" 
     alt="Projeto Photographer"
-    style="width: 100%; max-width: 400px; border-radius: 16px;"
+    style="width: 100%; max-width: 100px; border-radius: 8px;"
   />
 </a>
 
