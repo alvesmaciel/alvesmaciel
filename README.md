@@ -56,11 +56,11 @@ Integração com banco de dados
 
 <div align="center">
 
-<a href="https://github.com/alvesmaciel/WebSite-Photographer" target="_blank">
+<a href="https://alvesmaciel.github.io/WebSite-Photographer/" target="_blank">
   <img 
-    src="https://raw.githubusercontent.com/alvesmaciel/WebSite-Photographer/main/preview.png" 
+    src="https://image.thum.io/get/width/800/https://alvesmaciel.github.io/WebSite-Photographer/" 
     alt="Projeto Photographer"
-    style="width: 100%; max-width: 400px; border-radius: 12px;"
+    style="width: 100%; max-width: 400px; border-radius: 16px;"
   />
 </a>
 
