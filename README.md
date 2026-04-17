@@ -13,7 +13,7 @@
 
 Desenvolvedor com formação técnica em **Informática para Internet pelo SENAI**, focado na criação de aplicações web modernas, responsivas e funcionais.
 
-Experiência em front-end, back-end básico e banco de dados. Busco oportunidades como **Desenvolvedor Web Júnior**.
+Experiência em front-end, back-end e banco de dados. Busco oportunidades como **Desenvolvedor Web Júnior**.
 
 ---
 
