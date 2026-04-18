@@ -5,10 +5,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+Júnior;Front-end+%26+Back-end;Construindo+experiências+digitais+modernas)
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3B82F6&height=120&section=header"/>
-
 </div>
 
 ---
@@ -27,7 +23,7 @@ Atualmente atuo com **Front-end + Back-end + Banco de Dados**, buscando evoluç�
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=3B82F6)
-![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=3B82F6)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white)
@@ -106,7 +102,7 @@ Site institucional para serviços de manutenção.
 
 - Vagas como **Desenvolvedor Web Júnior**
 - Projetos reais com impacto
-- Evolução contínua como engenheiro de software
+- Evolução contínua como Engenheiro de Software
 
 ---
 
