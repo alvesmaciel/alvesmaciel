@@ -18,18 +18,21 @@ Atualmente atuo com **Front-end + Back-end + Banco de Dados**, buscando evoluç�
 
 ---
 
-# ⚙️ Stack
+## ⚙️ Stack
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=3B82F6)
-![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=3B82F6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=3B82F6)
+### Core Technologies
+
+HTML • CSS • JavaScript • PHP • MySQL
+
+<br>
+
+<sub style="color:#8b949e;">
+Building modern web experiences with focus on performance, simplicity and usability.
+</sub>
 
 </div>
-
 ---
 
 
