@@ -27,16 +27,92 @@ Experiência em front-end, back-end e banco de dados. Busco oportunidades como *
 
 ---
 
-## Projetos
-| | |
-|---|---|
-| [![Photographer](https://image.thum.io/get/width/350/https://alvesmaciel.github.io/WebSite-Photographer/)](https://alvesmaciel.github.io/WebSite-Photographer/) | [![Mac Apps](https://image.thum.io/get/width/350/https://alvesmaciel.github.io/Mac/HomePage/)](https://alvesmaciel.github.io/Mac/HomePage/) |
-| **Photographer** — Website de fotografia | **Mac Apps** — Projeto Pessoal |
+## 🚀 Projetos
 
-| | |
-|---|---|
-| [![WB Manutenção](https://image.thum.io/get/width/350/https://www.wbmanutencao.com.br/home)](https://www.wbmanutencao.com.br/home) |  |
-| **WB Manutenção** — Site institucional |  |
+<div align="center">
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  max-width: 900px;
+">
+
+  <!-- Photographer -->
+  <a href="https://alvesmaciel.github.io/WebSite-Photographer/" target="_blank" style="text-decoration: none;">
+    <div style="
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 18px;
+      backdrop-filter: blur(12px);
+      overflow: hidden;
+      transition: 0.3s ease;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    " onmouseover="this.style.transform='translateY(-8px)'" onmouseout="this.style.transform='translateY(0)'">
+
+      <img src="https://image.thum.io/get/width/600/https://alvesmaciel.github.io/WebSite-Photographer/" style="width:100%; display:block;" />
+
+      <div style="padding: 16px;">
+        <h3 style="margin:0; color:#fff;">Photographer</h3>
+        <p style="margin:6px 0 0; color:#aaa; font-size:14px;">
+          Website de fotografia com foco em portfólio visual.
+        </p>
+      </div>
+
+    </div>
+  </a>
+
+  <!-- Mac Apps -->
+  <a href="https://alvesmaciel.github.io/Mac/HomePage/" target="_blank" style="text-decoration: none;">
+    <div style="
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 18px;
+      backdrop-filter: blur(12px);
+      overflow: hidden;
+      transition: 0.3s ease;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    " onmouseover="this.style.transform='translateY(-8px)'" onmouseout="this.style.transform='translateY(0)'">
+
+      <img src="https://image.thum.io/get/width/600/https://alvesmaciel.github.io/Mac/HomePage/" style="width:100%; display:block;" />
+
+      <div style="padding: 16px;">
+        <h3 style="margin:0; color:#fff;">Mac Apps</h3>
+        <p style="margin:6px 0 0; color:#aaa; font-size:14px;">
+          Plataforma de apps com foco em UI moderna e experiência.
+        </p>
+      </div>
+
+    </div>
+  </a>
+
+  <!-- WB Manutenção -->
+  <a href="https://www.wbmanutencao.com.br/home" target="_blank" style="text-decoration: none;">
+    <div style="
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 18px;
+      backdrop-filter: blur(12px);
+      overflow: hidden;
+      transition: 0.3s ease;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    " onmouseover="this.style.transform='translateY(-8px)'" onmouseout="this.style.transform='translateY(0)'">
+
+      <img src="https://image.thum.io/get/width/600/https://www.wbmanutencao.com.br/home" style="width:100%; display:block;" />
+
+      <div style="padding: 16px;">
+        <h3 style="margin:0; color:#fff;">WB Manutenção</h3>
+        <p style="margin:6px 0 0; color:#aaa; font-size:14px;">
+          Site institucional para serviços de manutenção.
+        </p>
+      </div>
+
+    </div>
+  </a>
+
+</div>
+
+</div>
 ---
 
 ## GitHub Stats
