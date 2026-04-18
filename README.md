@@ -1,144 +1,92 @@
 <div align="center">
 
 # Maciel
-
 ### Desenvolvedor Web
 
-<br>
-
-> Desenvolvedor focado em criar experiências digitais modernas, performáticas e intuitivas.
-
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=22&center=true&vCenter=true&width=800&lines=Web+Developer;Front-end+%26+Back-end;UI+minimalista+e+performática)
-
-<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+Júnior;Front-end+%26+Back-end;Construindo+experiências+digitais+modernas)
 
 </div>
 
 ---
 
-<br>
+# 🧭 Sobre
 
-## 🧠 Sobre
+> Desenvolvedor com formação técnica em **Informática para Internet (SENAI)**  
+> Focado em criar aplicações web modernas, performáticas e bem estruturadas.
+
+Atualmente atuo com **Front-end + Back-end + Banco de Dados**, buscando evolução constante como **Desenvolvedor Web Júnior**.
+
+---
+
+# ⚙️ Stack
 
 <div align="center">
 
-Formação técnica em **Informática para Internet (SENAI)**  
-Especializado em desenvolvimento web full-stack com foco em **simplicidade, performance e UX moderna**.
-
-<br>
-
-> “Menos interface. Mais experiência.”
-
-</div>
-
----
-
-<br>
-
-## ⚙️ Stack
-
-<div align="center">
-
-# HTML · CSS · JavaScript · PHP · MySQL
-
-<br>
-
-<sub style="color:#8b949e;">
-Minimal. Performant. Scalable.
-</sub>
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=3B82F6)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css&logoColor=3B82F6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=3B82F6)
 
 </div>
 
 ---
 
-<br>
 
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://alvesmaciel.github.io/Mac/HomePage/">
-
-<img src="https://alvesmaciel.github.io/Mac/HomePage/" width="900" style="border-radius:18px;">
-
-</a>
-
-<br><br>
-
-### Mac Apps
-
-Plataforma de aplicações com foco em UI moderna, fluidez e experiência de produto.
-
-</div>
-
----
-
-<br>
-
-## 📦 Projects
+## 🚀 Projetos
 
 <div align="center">
 
 <table>
-
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
 <a href="https://alvesmaciel.github.io/WebSite-Photographer/">
-<img src="https://alvesmaciel.github.io/WebSite-Photographer/" width="420" style="border-radius:14px;">
+<img src="https://image.thum.io/get/width/600/https://alvesmaciel.github.io/WebSite-Photographer/" style="border-radius:12px;">
 </a>
 
 <br>
 
-### Photographer
-
-Portfólio de fotografia minimalista
+**Photographer**  
+Website de fotografia com foco em portfólio visual.
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<a href="https://www.wbmanutencao.com.br/home">
-<img src="https://www.wbmanutencao.com.br/home" width="420" style="border-radius:14px;">
+<a href="https://alvesmaciel.github.io/Mac/HomePage/">
+<img src="https://image.thum.io/get/width/600/https://alvesmaciel.github.io/Mac/HomePage/" style="border-radius:12px;">
 </a>
 
 <br>
 
-### WB Manutenção
+**Mac Apps**  
+Plataforma de apps com UI moderna e experiência fluida.
 
-Site institucional profissional
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://www.wbmanutencao.com.br/home">
+<img src="https://image.thum.io/get/width/600/https://www.wbmanutencao.com.br/home" style="border-radius:12px;">
+</a>
+
+<br>
+
+**WB Manutenção**  
+Site institucional para serviços de manutenção.
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
 
 ---
 
-<br>
-
-## 🎯 Focus
-
-<div align="center">
-
-- Desenvolvimento de interfaces modernas  
-- Experiência de usuário premium  
-- Construção de produtos digitais reais  
-- Evolução contínua como desenvolvedor  
-
-</div>
-
----
-
-<br>
-
-## 📊 GitHub
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -150,21 +98,25 @@ Site institucional profissional
 
 ---
 
-<br>
+# 🎯 Objetivo
 
-## 📬 Contact
+- Vagas como **Desenvolvedor Web Júnior**
+- Projetos reais com impacto
+- Evolução contínua como Engenheiro de Software
+
+---
+
+# 📬 Contato
 
 <div align="center">
 
-[Email](mailto:arthurteixeiramaciel@gmail.com) • 
-[LinkedIn](https://linkedin.com/in/alvesmaciell) • 
-[Portfolio](https://alvesmaciel.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:arthurteixeiramaciel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/alvesmaciell)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=3B82F6)](https://alvesmaciel.github.io)
 
 </div>
 
 ---
-
-<br>
 
 <div align="center">
 
