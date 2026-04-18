@@ -23,10 +23,10 @@ Atualmente atuo com **Front-end + Back-end + Banco de Dados**, buscando evolu√ß√
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=3B82F6)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=3B82F6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=3B82F6)
 
 </div>
 
