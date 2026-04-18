@@ -36,24 +36,28 @@ Atualmente atuo com **Front-end + Back-end + Banco de Dados**, buscando evoluç�
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Product
 
 <div align="center">
 
 <a href="https://alvesmaciel.github.io/Mac/HomePage/">
 
-<img src="https://alvesmaciel.github.io/Mac/HomePage/" style="width:900px; border-radius:16px;">
+<img src="https://alvesmaciel.github.io/Mac/HomePage/" width="900" style="border-radius:20px;">
 
 </a>
 
 ### Mac Apps
-Plataforma de aplicativos com foco em UI moderna, fluidez e experiência estilo produto Apple.
+Um ecossistema de aplicações modernas focadas em produtividade, design e experiência fluida.
+
+> Construído com foco em UI minimalista, performance e experiência de usuário no nível de produtos Apple.
 
 </div>
 
 ---
 
-# 📦 Projetos
+<br>
+
+# 📦 Projects
 
 <div align="center">
 
@@ -64,22 +68,22 @@ Plataforma de aplicativos com foco em UI moderna, fluidez e experiência estilo 
 <td align="center">
 
 <a href="https://alvesmaciel.github.io/WebSite-Photographer/">
-<img src="https://alvesmaciel.github.io/WebSite-Photographer/" style="width:450px; border-radius:14px;">
+<img src="https://alvesmaciel.github.io/WebSite-Photographer/" width="420" style="border-radius:16px;">
 </a>
 
-**Photographer**  
-Portfólio de fotografia minimalista
+### Photographer  
+Site de portfólio fotográfico com foco em estética minimalista e visual impactante.
 
 </td>
 
 <td align="center">
 
 <a href="https://www.wbmanutencao.com.br/home">
-<img src="https://www.wbmanutencao.com.br/home" style="width:450px; border-radius:14px;">
+<img src="https://www.wbmanutencao.com.br/home" width="420" style="border-radius:16px;">
 </a>
 
-**WB Manutenção**  
-Site institucional profissional
+### WB Manutenção  
+Website institucional profissional voltado para serviços técnicos e presença digital.
 
 </td>
 
@@ -91,33 +95,53 @@ Site institucional profissional
 
 ---
 
+<br>
+
+# ✨ Design Philosophy
+
+> “Simplicidade não é ausência de complexidade, é a eliminação do desnecessário.”
+
+- Interface limpa e focada em conteúdo
+- Experiência fluida e intuitiva
+- Estrutura visual inspirada em produtos Apple
+- Prioridade em performance e clareza
+
+---
+
+<br>
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvesmaciel&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=alvesmaciel&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmaciel&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmaciel&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6"/>
 
 </div>
 
 ---
 
-# 🎯 Objetivo
+<br>
 
-- Vagas como **Desenvolvedor Web Júnior**
-- Projetos reais com impacto
-- Evolução contínua como Engenheiro de Software
+# 🎯 Focus
+
+- Desenvolvimento de interfaces modernas
+- Experiência de usuário premium
+- Construção de produtos digitais reais
+- Evolução constante como engenheiro de software
 
 ---
 
-# 📬 Contato
+<br>
+
+# 📬 Contact
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:arthurteixeiramaciel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/alvesmaciell)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=3B82F6)](https://alvesmaciel.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:arthurteixeiramaciel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/alvesmaciell)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=3B82F6)](https://alvesmaciel.github.io)
 
 </div>
 
