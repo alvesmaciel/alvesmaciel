@@ -42,7 +42,7 @@ Atualmente atuo com **Front-end + Back-end + Banco de Dados**, buscando evoluç�
 
 <a href="https://alvesmaciel.github.io/Mac/HomePage/">
 
-<img src="https://image.thum.io/get/width/900/https://alvesmaciel.github.io/Mac/HomePage/" style="border-radius:16px;">
+<img src="https://alvesmaciel.github.io/Mac/HomePage/" style="width:900px; border-radius:16px;">
 
 </a>
 
@@ -60,10 +60,11 @@ Plataforma de aplicativos com foco em UI moderna, fluidez e experiência estilo 
 <table>
 
 <tr>
+
 <td align="center">
 
 <a href="https://alvesmaciel.github.io/WebSite-Photographer/">
-<img src="https://image.thum.io/get/width/500/https://alvesmaciel.github.io/WebSite-Photographer/" style="border-radius:14px;">
+<img src="https://alvesmaciel.github.io/WebSite-Photographer/" style="width:450px; border-radius:14px;">
 </a>
 
 **Photographer**  
@@ -74,7 +75,7 @@ Portfólio de fotografia minimalista
 <td align="center">
 
 <a href="https://www.wbmanutencao.com.br/home">
-<img src="https://image.thum.io/get/width/500/https://www.wbmanutencao.com.br/home" style="border-radius:14px;">
+<img src="https://www.wbmanutencao.com.br/home" style="width:450px; border-radius:14px;">
 </a>
 
 **WB Manutenção**  
@@ -106,7 +107,7 @@ Site institucional profissional
 
 - Vagas como **Desenvolvedor Web Júnior**
 - Projetos reais com impacto
-- Evolução contínua como engenheiro de software
+- Evolução contínua como Engenheiro de Software
 
 ---
 
