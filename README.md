@@ -33,7 +33,7 @@ Atualmente atuo com **Front-end + Back-end + Banco de Dados**, buscando evoluç�
 ---
 
 
-## 🚀 Projetos
+## 🚀 Projetos Em Destaques
 
 <div align="center">
 
